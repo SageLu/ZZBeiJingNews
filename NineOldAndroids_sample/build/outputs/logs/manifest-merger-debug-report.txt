@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:3:1-131:12
+	package
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:4:5-53
+		INJECTED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml
+		INJECTED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml
+		INJECTED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml
+		INJECTED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:3:11-69
+uses-sdk
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml
+		INJECTED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:9:9-34
+application
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:12:5-130:19
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:14:9-49
+	android:icon
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:13:9-45
+activity#com.jakewharton.nineoldandroids.sample.Demos
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:17:13-46
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:18:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:21:27-74
+category#android.intent.category.DEFAULT
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:22:27-73
+activity#com.jakewharton.nineoldandroids.sample.Toggles
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:26:9-33:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:27:13-36
+intent-filter#android.intent.action.MAIN+com.jakewharton.nineoldandroids.sample.SAMPLE
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:29:13-32:29
+category#com.jakewharton.nineoldandroids.sample.SAMPLE
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:31:17-89
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:31:27-87
+activity#com.jakewharton.nineoldandroids.sample.VPADemo
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:35:9-42:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:36:13-36
+activity#com.jakewharton.nineoldandroids.sample.apidemos.AnimationCloning
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:45:9-52:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:46:13-54
+activity#com.jakewharton.nineoldandroids.sample.apidemos.AnimationLoading
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:53:9-60:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:54:13-54
+activity#com.jakewharton.nineoldandroids.sample.apidemos.AnimationSeeking
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:61:9-68:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:62:13-54
+activity#com.jakewharton.nineoldandroids.sample.apidemos.AnimatorEvents
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:69:9-76:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:71:13-54
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:70:13-52
+activity#com.jakewharton.nineoldandroids.sample.apidemos.BouncingBalls
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:77:9-84:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:79:13-53
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:78:13-51
+activity#com.jakewharton.nineoldandroids.sample.apidemos.CustomEvaluator
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:85:9-92:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:87:13-55
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:86:13-53
+activity#com.jakewharton.nineoldandroids.sample.apidemos.MultiPropertyAnimation
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:93:9-100:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:95:13-63
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:94:13-60
+activity#com.jakewharton.nineoldandroids.sample.apidemos.ReversingAnimation
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:101:9-108:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:103:13-58
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:102:13-56
+activity#com.jakewharton.nineoldandroids.sample.droidflakes.Droidflakes
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:111:9-118:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:113:13-41
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:112:13-52
+activity#com.jakewharton.nineoldandroids.sample.pathanimation.PathAnimationActivity
+ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:121:9-128:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:123:13-43
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\NineOldAndroids_sample\src\main\AndroidManifest.xml:122:13-64

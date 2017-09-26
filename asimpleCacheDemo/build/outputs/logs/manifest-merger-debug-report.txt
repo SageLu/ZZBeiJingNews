@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:7:5-83
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:7:22-64
+uses-sdk
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:10:9-34
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml
+application
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:13:5-41:19
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:17:9-40
+activity#com.yangfuhai.asimplecachedemo.MainActivity
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:19:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:24:27-74
+activity#com.yangfuhai.asimplecachedemo.AboutActivity
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:27:9-81
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:27:19-78
+activity#com.yangfuhai.asimplecachedemo.SaveBitmapActivity
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:28:9-86
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:28:19-83
+activity#com.yangfuhai.asimplecachedemo.SaveJsonObjectActivity
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:29:9-90
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:29:19-87
+activity#com.yangfuhai.asimplecachedemo.SaveObjectActivity
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:30:9-86
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:30:19-83
+activity#com.yangfuhai.asimplecachedemo.SaveStringActivity
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:31:9-86
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:31:19-83
+activity#com.yangfuhai.asimplecachedemo.SaveMediaActivity
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:32:9-85
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:32:19-82
+activity#com.yangfuhai.asimplecachedemo.SaveDrawableActivity
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:35:13-65
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:34:13-79
+activity#com.yangfuhai.asimplecachedemo.SaveJsonArrayActivity
+ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:39:13-67
+	android:name
+		ADDED from F:\sageSth\ZZBeiJingNews\asimpleCacheDemo\src\main\AndroidManifest.xml:38:13-80

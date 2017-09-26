@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:id="@+id/ll_root"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+    >
+
+        <com.xujun.funapp.widget.SettingSwitchItem
+            android:id="@+id/ssi_isIntelligentNoPic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:des="智能无图">
+
+        </com.xujun.funapp.widget.SettingSwitchItem>
+
+        <com.xujun.funapp.widget.SettingSwitchItem
+            android:id="@+id/ssi_nightMode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:des="夜间模式">
+
+        </com.xujun.funapp.widget.SettingSwitchItem>
+
+
+
+
+        <com.xujun.funapp.widget.SettingClickItem
+            android:id="@+id/sci_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:content="北京"
+            app:des="我的位置"
+            app:icon="@mipmap/area"
+        >
+
+        </com.xujun.funapp.widget.SettingClickItem>
+
+        <com.xujun.funapp.widget.SettingClickItem
+            android:id="@+id/sci_GPSlocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:des="GPS"
+            app:icon="@mipmap/area">
+
+        </com.xujun.funapp.widget.SettingClickItem>
+
+
+
+    </LinearLayout>
+</layout>
